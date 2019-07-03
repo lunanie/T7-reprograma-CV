@@ -8,8 +8,11 @@
 5. Conferir se tá tudo certo...
 6. Criar branch: `git checkout -b nome-da-sua-branch`
 7. Codar loucamente....e depois
+
 `git add .`
+
 `git commit -m "mensagem-sobre-o-que-foi-feito"`
+
 8. Atualizar a branch master(da fonte) antes de dar push:`git pull upstream master`
 9. Subir suas alterações: `git push origin nome-da-sua-branch`
 10. Agora é só fazer o Pull request do amor no seu repositório!
