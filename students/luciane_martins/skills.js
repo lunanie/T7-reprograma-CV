@@ -9,7 +9,7 @@ const skillsList = [
   { skill: "Python", score: 8 },
   { skill: "AutoCAD", score: 10 },
   { skill: "SketchUp", score: 10 },
-  { skill: "Virtual Basic for Applications (VBA)", score: 6 },
+  { skill: "VBA", score: 6 },
   { skill: "WordPress", score: 6 }
 ];
 
